@@ -4,20 +4,25 @@ answers = [
     'It is certain',
     'It is decidedly so',
     'Yes',
+    'Without a doubt',
+    'As I see it, yes',
     'Reply hazy try again',
     'Ask again later',
+    'Cannot predict at this time',
     'Concentrate and ask again',
     'My reply is no',
     'Outlook not good',
     'Very doubtful',
+    'My sources say no',
+    'Don\'t count on it'
 ]
 
 
 def help():
-    print('###')
-    print('\nHelp/Instructions:\n')
+    print('\n###')
+    print('Help/Instructions:\n')
     print('When the program first runs, the Magic 8 Ball will ask the user if')
-    print('they would like to ask a question.')
+    print('they would like to ask a yes or no question.')
     print('The user can then enter \'Y\' for yes & proceed to ask a question.')
     print('Or the user can enter \'N\' for no to exit the program.\n')
     print('Entering \'Help\' at any point will result in this screen.')
