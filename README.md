@@ -1,7 +1,7 @@
 # Magic 8-Ball
 This is a digital Magic 8-Ball. The orignal Magic 8-Ball was a billard's 8 ball used for fortune telling. Users would ask it a yes or no question and the Magic 8-Ball would give a prediction.
 
-## Prerequisites
+## Requirements
 magic_8.py uses f-strings from Python 3.6 and will not be compatible with older version. Using an older version of Python will result in Syntax Error.
 
 ## Asking A Question
