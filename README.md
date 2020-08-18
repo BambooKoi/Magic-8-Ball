@@ -3,6 +3,7 @@ This is a digital Magic 8-Ball made with Python. The orignal Magic 8-Ball was a 
 
 ## Table of Contents
 - [Demo](#Demo)
+  - [Notes](#Notes)
 - [Built With](#Built-With)
 - [Running Magic 8-Ball](#Running-Magic-8-Ball)
 - [License](#License)
@@ -14,9 +15,11 @@ Users can then ask the Magic 8-Ball a yes/no question and recieve a prediction. 
 
 ![Demo of Magic 8 Ball running](demo.gif)
 
-Input is case-insensitive, feel free to use ALL CAPS, all lowercase, or MiXed CaSe. Question mark at the end of a question is not required. There are 14 possible responses to yes/no questions which are randomly picked each time and a 15th secret response (shown in the demo).
-
-`Help` can be used to access the Help Screen and `Quit` can be used to exit from within the game.
+### Notes
+- Input is case-insensitive, feel free to use ALL CAPS, all lowercase, or MiXed CaSe.
+- A question mark at the end of a question is not required.
+- There are 14 possible responses to yes/no questions which are randomly picked each time and a 15th secret response (shown in the demo).
+- `Help` can be used to access the Help Screen and `Quit` can be used to exit from within the game.
 
 ## Built With
 - [Python 3.8](https://www.python.org/) with the help of the built-in modules:
