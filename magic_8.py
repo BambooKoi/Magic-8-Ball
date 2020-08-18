@@ -1,3 +1,4 @@
+import os
 import random
 
 answers = [
@@ -19,6 +20,7 @@ answers = [
 
 
 def help():
+    os.system('cls')
     print('\n###')
     print('Help/Instructions:\n')
     print('When the program first runs, the Magic 8 Ball will ask the user if')
