@@ -29,8 +29,8 @@ Input is case-insensitive, feel free to use ALL CAPS, all lowercase, or MiXed Ca
 - Download `magic_8.py`.
 - Run `magic_8.py` and enjoy.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License ![GitHub](https://img.shields.io/github/license/BambooKoi/Magic-8-Ball)
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/) as a rough starting reference
