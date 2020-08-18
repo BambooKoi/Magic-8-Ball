@@ -1,8 +1,18 @@
 # Magic 8-Ball
-This is a digital Magic 8-Ball. The orignal Magic 8-Ball was a billard's 8 ball used for fortune telling. Users would ask it a yes or no question and the Magic 8-Ball would give a prediction.
+This is a digital Magic 8-Ball made with Python. The orignal Magic 8-Ball was a billard's 8 ball used for fortune telling. Users would ask it a yes or no question and the Magic 8-Ball would give a prediction.
+
+##Table of Contents
+- [Running Magic 8-Ball](#Running-Magic-8-Ball)
+- []()
 
 ## Requirements
-magic_8.py uses f-strings from Python 3.6 and will not be compatible with older version. Using an older version of Python will result in Syntax Error.
+- Python 3.6 or newer
+
+## Built With
+- [Python 3.8](python.org)
+
+## Running Magic 8-Ball
+The game requires Python 3.6 or newer. Once you have Python 3.6 or newer installed, download the `hangman.py` file and run it.
 
 ## Asking A Question
 Upon launching magic_8.py users will be greeted with:
